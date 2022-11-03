@@ -1,8 +1,6 @@
 <h1>Davi Alves</h1>
 
-📚Estudyng: analysis and systems development
-
-📚Data Scientist
+📚Estudyng: analysis and systems development/Data Scientist Begginer
 
 ☕Progamming Languages: Python(pandas/matplotlib/numpy),JavaScript/Typescript(React/NodeJS/API),HTML5,Css
 
