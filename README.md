@@ -2,6 +2,8 @@
 
 📚Estudyng: analysis and systems development
 
+📚Data Scientist
+
 ☕Progamming Languages: JavaScript/Typescript(React/NodeJS/API) Python(pandas/matplotlib/numpy)HTML5,Css
 
 📩contact email: davialves127@gmail.com
