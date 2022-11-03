@@ -3,7 +3,6 @@
 <!--
 **davialvesz1/davialvesz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Davi Alves
 📚Estudyng: analysis and systems development
 
 ☕Progamming Languages: JavaScript/Typescript(React/NodeJS/API) Python(pandas/matplotlib/numpy)HTML5,Css
