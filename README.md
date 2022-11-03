@@ -4,7 +4,7 @@
 
 📚Data Scientist
 
-☕Progamming Languages: JavaScript/Typescript(React/NodeJS/API) Python(pandas/matplotlib/numpy)HTML5,Css
+☕Progamming Languages: Python(pandas/matplotlib/numpy),JavaScript/Typescript(React/NodeJS/API),HTML5,Css
 
 📩contact email: davialves127@gmail.com
 
