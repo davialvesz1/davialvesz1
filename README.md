@@ -8,9 +8,7 @@
 
 📩contact email: davialves127@gmail.com
 
-
   
-</div>
 <hr>
 <br>
 
