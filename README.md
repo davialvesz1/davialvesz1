@@ -2,9 +2,6 @@
 
 📚Estudyng: analysis and systems development
 
-💻Data Scientist/WebDevelopment
-
-
 📩contact email: davialves127@gmail.com
 
   
