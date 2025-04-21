@@ -1,6 +1,8 @@
 <h1>Davi Alves</h1>
 
-📚Estudyng: analysis and systems development
+Estudante de Ciências Contábeis com experiência na área Financeira & Tech
+forte domínio de ferramentas em Desenvolvimento de Sistemas,
+Análise de Dados como Excel, Python e Power BI
 
 📩contact email: davialves127@gmail.com
 
