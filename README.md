@@ -1,7 +1,7 @@
 <h1>Davi Alves</h1>
 
 Estudante de Ciências Contábeis com experiência na área Financeira & Tech
-forte domínio de ferramentas em Desenvolvimento de Sistemas e 
+forte domínio de ferramentas em Desenvolvimento de Software e 
 Análise de Dados
 
 📩contact email: davialves127@gmail.com
